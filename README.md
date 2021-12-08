@@ -1,7 +1,7 @@
 # Prediccion-meteorlogia-espacial
 TFG: Predicción de viento solar a través de redes neuronales profundas. <br />
 
-- Para obtener los datos sin preprocesar y preprocesados por favor visitar: https://drive.google.com/drive/folders/13lgVcPWyBtjmtBnZRfiY6f80u6qLgj9p?usp=sharing <br />
+- Dado que los datos pesan 150 MB no es posible subirlos al respositorio, dejo un enlace para los interesados: [datos sin preprocesar](https://drive.google.com/file/d/1AvvkAYaAC0BMMwAF_6qqtdTqTEbLfcRG/view?usp=sharing) y [datos preprocesados](https://drive.google.com/file/d/1BXSGC21YNVCk8kAn-kHe7qfXJYRtnL-v/view?usp=sharing) <br />
 
 - Es recomendable leer Documentación.pdf para comprender los objetivos del proyecto y los pasos realizados.
 
