@@ -18,4 +18,4 @@ Este proyecto se divide de la siguiente manera:
 
 - Prediccion_tormentas contiene un notebook en el cual se trató de crear modelos únicamente con datos de tormentas.
 
--Prediccion_general contiene un resumen de los modelos desarrollados, sus métricas asociadas y la predicción de una tormenta en su parte final por el mejor modelo obtenido.
+- Prediccion_general contiene un resumen de los modelos desarrollados, sus métricas asociadas y la predicción de una tormenta en su parte final por el mejor modelo obtenido.
